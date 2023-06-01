@@ -12,3 +12,14 @@
 4.https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 
+
+## Sorting
+o Find All Numbers Disappeared in an Array - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ (Easy)
+
+o Missing Number - https://leetcode.com/problems/missing-number/ (Easy)
+
+o Set Mismatch- https://leetcode.com/problems/set-mismatch/ (Easy)
+
+o Find All Duplicates in an Array- https://leetcode.com/problems/find-all-duplicates-in-an-array/ (Medium)
+
+
