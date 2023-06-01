@@ -23,3 +23,14 @@ o Set Mismatch- https://leetcode.com/problems/set-mismatch/ (Easy)
 o Find All Duplicates in an Array- https://leetcode.com/problems/find-all-duplicates-in-an-array/ (Medium)
 
 
+
+## Strings 
+
+o Roman to Integer -https://leetcode.com/problems/roman-to-integer/  (Easy)
+
+o Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/ - LeetCode (Easy)
+
+o Valid Parentheses - https://leetcode.com/problems/valid-parentheses/ (Easy)
+
+o Longest Palindromic Substring -  https://leetcode.com/problems/longest-palindromic-substring/ (Medium)
+
