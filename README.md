@@ -1,7 +1,7 @@
 # DSA_JUNE
 ## 100 leetcode questions
 
-### Binary Search 
+### Binary/Linear Search 
 
 1.https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
